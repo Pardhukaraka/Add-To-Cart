@@ -60,7 +60,7 @@ function updateCart() {
 
 const books =[
 
-  { title: "Nature Kingdom", price: 150, image: "https://dfb503wu29eo2.cloudfront.net/slir/h1200/png24-front/bookcover0010361.jpg" },
+  { title: "Nature Kingdom", price: 150, image: "https://www.melora.sa/cdn/shop/products/nature-kingdom-lavender-soothing-moisturizing-gel-300-ml-melora-2-23861600649355.jpg?v=1692799547" },
 
   { title: "boat earbuds", price: 2299, image: "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70" },
 
